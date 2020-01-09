@@ -1,18 +1,57 @@
 header{
-    background-color: cornflowerblue;
+    background-color: blue;
+    margin-top: -3%;
+    padding: 2px 2px 2px 2px;
+}
+body{
+    background-color: whitesmoke;
+}
+#span{
+    font-size: 80%;
+}
+#pizzacom{
+    float: right;
+    height: 1260px;
+    width: 30%;
+}
+#central{
+    float: left;
+    margin-left: 3%;
+    
+    width: 65%;
+}
+p{
+    text-align: left;
+    margin-left: 3%;
+    margin-right: 20%;
+    color: white;
 }
 h1{
+    margin-left: 3%;
     color: white;
-    font-family: Arial, Helvetica, sans-serif;
-    margin-bottom: -15px;
 }
-h3{
-    color: white;
-    font-family: Arial, Helvetica, sans-serif;
+#pizza{
+    width: 80%;
+    margin-top: 50%;
+    
 }
-#favorita{
-    color: white;
-    font-family: Arial, Helvetica, sans-serif;
-    margin-top: -10px;
+#nada{
+    display: inline-block;
+    font-size: 10px;
+    
 }
-
+#poco{
+    display: inline-block;
+    font-size: 10px;
+    margin-left: 12%;
+}
+#mucho{
+    display: inline-block;
+    font-size: 10px;
+    margin-left: 12%;
+}
+#muchisimo{
+    display: inline-block;
+    font-size: 10px;
+    margin-left: 12%;
+}
